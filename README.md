@@ -1,8 +1,5 @@
 # Subdomain
-
-
-,,, python
-
-sudo python3 subdomain.py
-
-,,,
+how to run it
+``` python
+python3 Subdomain.py
+```
